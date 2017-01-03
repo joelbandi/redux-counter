@@ -1,0 +1,17 @@
+.container, .App {
+  background-color: cadetblue
+}
+
+.head {
+  margin-top: 150px;
+  color: white;
+  border: 5px white;
+}
+
+.inc {
+  width: 75px;
+}
+
+.dec {
+  width: 75px;
+}
